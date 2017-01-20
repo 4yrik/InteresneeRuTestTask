@@ -18,7 +18,9 @@
    
    http://test.interesnee.ru/admin/products/add?productID=16 to a different vendor. Check that you can't see the data)
    5. Admin should be able to edit and change product name
-   6. Vendor should not be able to create new customers by accessing this link http://test.interesnee.ru/admin/customers/add
+   6. Vendor should not be able to create new customers by accessing this link 
+   
+   http://test.interesnee.ru/admin/customers/add
    7. Check that if Admin is trying to create Empty budget - system performs red validation of Budget Name, Frequency and        Balance    fields.
    
    ￼￼￼
